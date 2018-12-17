@@ -1,4 +1,4 @@
-# Project Title
+# Simple Webserver using GO
 
 This project implements a simple web server that tells user their ip address, geolocation and timzone.
 
